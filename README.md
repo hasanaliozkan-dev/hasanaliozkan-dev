@@ -11,4 +11,4 @@ Skills
 
 <img src="https://github-readme-stats.vercel.app/api?username=hasanaliozkan-dev&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
 
-<img src="[[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hasanaliozkan-dev&exclude_repo=github-readme-stats,hasanaliozkan-dev.github.io)](https://github.com/hasanaliozkan-dev/github-readme-stats)">
+<img src="[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hasanaliozkan-dev)]">
