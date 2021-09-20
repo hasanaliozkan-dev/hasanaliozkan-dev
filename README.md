@@ -4,6 +4,8 @@
 
 I’m currently learning R for data science <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white"> 
 
+I'm currently working on an AI project about wildfire.
+
 I'm currently learning C for my classes.<img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white">
 
 <img src="https://github-readme-stats.vercel.app/api?username=hasanaliozkan-dev&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">                                                   
