@@ -2,7 +2,7 @@
 
 
 
-I’m currently learning R for data science <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white"> 
+I’m currently learning Fortran in order to conduct a project.<img src="https://img.shields.io/badge/Fortran-276DC3?style=for-the-badge&logo=r&logoColor=white"> 
 
 I'm currently working on an AI project about wildfires.
 
@@ -20,5 +20,6 @@ Skills
 <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white">
 <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white">
 <img src="https://img.shields.io/badge/Android-FFFFFF?style=for-the-badge&logo=android&logoColor=32DE84">
+<img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white"> 
 
 
