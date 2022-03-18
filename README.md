@@ -2,7 +2,7 @@
 
 
 
-I’m currently learning Fortran in order to conduct a project.     <img src="https://img.shields.io/badge/Fortran-276DC3?style=for-the-badge&logo=fortran&logoColor=black"> 
+I’m currently learning Solidity.
 
 I'm currently working on an Data-Science project about wildfires.
 
