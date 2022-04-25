@@ -2,7 +2,7 @@
 
 
 
-I’m currently learning <img src="https://img.shields.io/badge/Solidity-FFFFFF?style=for-the-badge&logo=solidity&logoColor=32DE84">
+I’m currently learning <img src="https://img.shields.io/badge/Solidity-FFFFFF?style=for-the-badge&logo=solidity&logoColor=000000">
 
 I'm currently working on an Data-Science project about wildfires.
 
