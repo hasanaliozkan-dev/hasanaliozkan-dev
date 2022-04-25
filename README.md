@@ -4,7 +4,7 @@
 
 I’m currently learning <img src="https://img.shields.io/badge/Solidity-FFFFFF?style=for-the-badge&logo=solidity&logoColor=000000">
 
-I'm currently working multiple project on Data-Science.
+I'm currently working multiple projects on Data-Science.
 
 <img src="https://github-readme-stats.vercel.app/api?username=hasanaliozkan-dev&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">                                                   
 <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=hasanaliozkan-dev&layout=compact">
