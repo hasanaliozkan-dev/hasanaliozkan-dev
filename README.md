@@ -21,6 +21,6 @@ Skills
 <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white"> 
 
 
-<img src="https://img.shields.io/badge/hasanaliozkan-FFFFFF?style=for-the-badge&logo=linkedin&logoColor=32DE84">
+<img src="http://linkedin.com/in/hasanaliozkan" <img src="https://img.shields.io/badge/Android-FFFFFF?style=for-the-badge&logo=android&logoColor=32DE84">>
 
 ![snake gif](https://github.com/hasanaliozkan-dev/hasanaliozkan-dev/blob/output/github-contribution-grid-snake.gif)
