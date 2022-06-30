@@ -80,7 +80,10 @@
   <br>
   <img src="https://activity-graph.herokuapp.com/graph?username=hasanaliozkan-dev&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
 </p>
-
+<hr>
+<p>
+  ![snake svg](https://github.com/hasanaliozkan-dev/hasanaliozkan-dev/blob/output/github-contribution-grid-snake.svg)
+</p>
 <hr>
 
 <h2 align="center">👨‍💻 Repositories 👨‍💻</h2>
@@ -106,9 +109,7 @@
   <a href="https://github.com/hasanaliozkan-dev?tab=repositories" title="Show Repositories">🔎 Show More 🔍</a>
 </h4>
 
-<hr>
 
-![snake svg](https://github.com/hasanaliozkan-dev/hasanaliozkan-dev/blob/output/github-contribution-grid-snake.svg)
 
 
 
