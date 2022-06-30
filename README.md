@@ -8,7 +8,7 @@
 
 <h5 align="center">
   <code>
-    <a href="https://www.linkedin.com/in/hasanaliozkan/" title="LinkedIn Profile"><img width="22" src="images/linkedin.svg"> LinkedIn</a></code>
+    <a href="https://www.linkedin.com/in/hasanaliozkan/" title="LinkedIn Profile" target="blank"><img width="22" src="images/linkedin.svg"> LinkedIn</a></code>
   <code><a href="https://www.hackerrank.com/hasanaliozkan" title="HackerRank Profile"><img width="22" src="images/hackerrank.png"> HackerRank</a></code>
    <code><a href="https://globalaihub.com/members/hasanaliozkan/" title="GlobaAI Hub Profile"><img width="22" src="images/globalaihub.jpeg"> GlobalAI Hub</a></code>
   <code><a href="https://stackoverflow.com/users/14295091/hasanaliozkan" title="Stack Overflow Profile"><img width="22" src="images/stackoverflow.svg">
