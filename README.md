@@ -82,7 +82,8 @@
 </p>
 
 <hr>
-
+![snake gif](https://github.com/hasanaliozkan-dev/hasanaliozkan-dev/blob/output/github-contribution-grid-snake.gif)
+<hr>
 <h2 align="center">👨‍💻 Repositories 👨‍💻</h2>
 <br>
 <div width="100%" align="center">
