@@ -90,6 +90,18 @@
   <a align="left" href="https://github.com/hasanaliozkan-dev/little_ai_chatbot" title="Little AI Chatbot"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=hasanaliozkan-dev&repo=little_ai_chatbot&theme=react&border_color=61dafb&border_radius=10"></a><a align="right" href="https://github.com/hasanaliozkan-dev/image_classification" title="Image Classification"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=hasanaliozkan-dev&repo=image_classification&theme=react&border_color=61dafb&border_radius=10"></a>
 </div>
 <br/><br/><br/><br/><br/><br/>
+<div width="100%" align="center">
+  <a align="left" href="https://github.com/hasanaliozkan-dev/Decentralized_Shipment" title="Decentralized Shipment App"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=hasanaliozkan-dev&repo=Decentralized_Shipment&theme=react&border_color=61dafb&border_radius=10"></a><a align="right" href="https://github.com/hasanaliozkan-dev/Embarrassment_Search_Engine" title="Embarrassment Search Engine"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=hasanaliozkan-dev&repo=Embarrassment_Search_Engine&theme=react&border_color=61dafb&border_radius=10"></a>
+</div>
+<br/><br/><br/><br/><br/><br/>
+<div width="100%" align="center">
+  <a align="left" href="https://github.com/hasanaliozkan-dev/Data_Science_Final_Project" title="Data Science Final Project"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=hasanaliozkan-dev&repo=Data_Science_Final_Project&theme=react&border_color=61dafb&border_radius=10"></a><a align="right" href="https://github.com/hasanaliozkan-dev/CloudStoreFinal" title="Cloud Store Final"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=hasanaliozkan-dev&repo=CloudStoreFinal&theme=react&border_color=61dafb&border_radius=10"></a>
+</div>
+<br/><br/><br/><br/><br/><br/>
+<div width="100%" align="center">
+  <a align="left" href="https://github.com/hasanaliozkan-dev/postfix_interpreter" title="Postfix Interpreter"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=hasanaliozkan-dev&repo=postfix_interpreter&theme=react&border_color=61dafb&border_radius=10"></a><a align="right" href="https://github.com/hasanaliozkan-dev/HR_database" title="HR Database"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=hasanaliozkan-dev&repo=HR_database&theme=react&border_color=61dafb&border_radius=10"></a>
+</div>
+<br/><br/><br/><br/><br/><br/>
 <br><br><br><br><br><br>
 <h4 align="center">
   <a href="https://github.com/hasanaliozkan-dev?tab=repositories" title="Show Repositories">🔎 Show More 🔍</a>
