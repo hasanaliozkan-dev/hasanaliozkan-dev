@@ -24,7 +24,7 @@
   <br>
   💻 My areas of interest are Data Science and Artificial Intelligence, where I study and develop my skills.
   <br>
-  📚 I'm currentl conduct multiple project on Data Science.
+  📚 I'm currently conduct multiple project on Data Science.
   <br>
   📫 How to reach me: <a href="mailto: hasanaliozkan@posta.mu.edu.tr">hasanaliozkan@posta.mu.edu.tr</a>
 </p>
