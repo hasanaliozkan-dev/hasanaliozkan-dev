@@ -26,7 +26,7 @@
   <br>
   📚 I'm currently conduct multiple project on Data Science.
   <br>
-  📫 How to reach me: <a href="mailto: hasanaliozkan@posta.mu.edu.tr">hasanaliozkan@posta.mu.edu.tr</a>
+  📫 How to reach me: <a href="mailto: hasanaliozkan-dev@outlook.com">hasanaliozkan@posta.mu.edu.tr</a>
 </p>
 
 <hr>
