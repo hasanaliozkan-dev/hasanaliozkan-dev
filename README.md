@@ -93,7 +93,7 @@
 </div>
 <br/><br/><br/><br/><br/><br/>
 <div width="100%" align="center">
-  <a align="left" href="https://github.com/hasanaliozkan-dev/Data_Science_Final_Project" title="Data Science Final Project"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=hasanaliozkan-dev&repo=Data_Science_Final_Project&theme=react&border_color=61dafb&border_radius=10"></a><a align="right" href="https://github.com/hasanaliozkan-dev/CloudStoreFinal" title="Cloud Store Final"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=hasanaliozkan-dev&repo=CloudStoreFinal&theme=react&border_color=61dafb&border_radius=10"></a>
+  <a align="left" href="https://github.com/hasanaliozkan-dev/tenzies-game" title="Tenzies Game React Tutorial"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=hasanaliozkan-dev&repo=Data_Science_Final_Project&theme=react&border_color=61dafb&border_radius=10"></a><a align="right" href="https://github.com/hasanaliozkan-dev/CloudStoreFinal" title="Cloud Store Final"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=hasanaliozkan-dev&repo=CloudStoreFinal&theme=react&border_color=61dafb&border_radius=10"></a>
 </div>
 <br/><br/><br/><br/><br/><br/>
 <div width="100%" align="center">
