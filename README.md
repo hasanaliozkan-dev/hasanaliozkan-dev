@@ -14,7 +14,8 @@
   <code><a href="https://stackoverflow.com/users/14295091/hasanaliozkan" title="Stack Overflow Profile"><img width="22" src="images/stackoverflow.svg">
   Stack Overflow</a></code>
   <code><a href="https://www.instagram.com/hasanaliozkan06/" title="Instagram Profile"><img width="22" src="images/instagram.svg"> Instagram</a></code>
-  <code><a href="https://app.datacamp.com/profile/hasanaliozkan" title="Data Camp"><img width="22" src="images/datacamp.png">
+  <code><a href="https://app.datacamp.com/profile/hasanaliozkan" title="Data Camp"><img width="22" src="images/datacamp.png"> 
+    DataCamp</a></code>
 </h5>
 <br>
 <p align="center">
