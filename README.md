@@ -16,15 +16,35 @@
 </h5>
 <br>
 <p align="center">
-  Hi, I'm Hasan Ali ÖZKAN, Computer Science Student at MSKU and Data Science Researcher. 
+  Hi, I'm Hasan Ali ÖZKAN.
   <br>
   <br>
-  🎓 I graduated from Selçuklu Atatürk Anadolu Medical Health High School
+  🎓 I graduated from Muğla Sıtkı Koçman University Computer Engineering Department
   <br>
   💻 My areas of interest are Data Science and Artificial Intelligence, where I study and develop my skills.
   <br>
   📚 I'm currently conduct multiple project on Data Science.
   <br>
+  
+  I am a highly accomplished data scientist who graduated from MSKU's Computer Engineering Department in 2023, where I obtained top      honors in the department and second place in the faculty. With over four years of experience in the field, I have been involved in 
+  several projects that have significantly contributed to the development and advancement of computer vision. My role in these           projects has been varied, from executive to manager, data scientist, and computer engineer, which has allowed me to   acquire a 
+  diverse set of skills that I bring to every new project. I have also had the privilege of being the founding supervisory board 
+  chairman of MSKU Data Science Community, where I had the opportunity to impart my knowledge to others. For a year, I gave data         science entry-level training in this community, and at the same time, I volunteered as a training mentor in two separate boot camps    in the Global AI Hub community. These experiences have helped me develop a keen understanding of the importance of collaboration and   the sharing of knowledge.
+
+  Looking to the future, I am eager to continue my education with a master's degree in data science, which I believe will provide me     with the necessary tools and knowledge to take my skills to the next level. I am confident that my skills and experiences will         enable me to excel in this field, and I am excited to see where this passion for data science will take me.
+  For more information about my skills and experiences, please refer to my LinkedIn profile. As a young, dynamic, and research-loving    person, data science is more than just a job for me; it is a passion that drives me to push the boundaries of what is possible.
+
+  I am particularly interested in the field of computer vision, as it has the potential to revolutionize industries such as         
+  healthcare, automotive, and retail. I have worked on several projects that have involved computer vision. I am constantly seeking 
+  ways to improve and optimize these processes.
+
+  In addition to my technical skills, I am also an excellent communicator and leader. As the supervisory board chairman of Muğla Sıtkı   Koçman University Data Science Community, I was responsible for overseeing a team of volunteers and ensuring that the community's      goals were met.
+
+  Overall, I am a dedicated and hardworking individual with a passion for using data science to make a positive impact on the world. I 
+  believe that my skills and experiences make me an excellent candidate for a master's degree in data science, and I am excited for 
+  the opportunity to continue learning and growing in this field.
+
+<br>
   📫 How to reach me: <a href="mailto: hasanaliozkan-dev@outlook.com">hasanaliozkan-dev@outlook.com</a>
 </p>
 
