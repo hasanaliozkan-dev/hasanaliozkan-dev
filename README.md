@@ -124,6 +124,7 @@
   <a href="https://github.com/hasanaliozkan-dev?tab=repositories" title="Show Repositories">🔎 Show More 🔍</a>
 </h4>
 
+![Snake animation](dist/github-contribution-grid-snake.svg)
 
  ![snake svg](https://github.com/hasanaliozkan-dev/hasanaliozkan-dev/blob/output/github-contribution-grid-snake.svg)
 
